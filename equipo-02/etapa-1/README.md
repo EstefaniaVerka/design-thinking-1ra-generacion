@@ -5,13 +5,18 @@ Para entregar la etapa 1 del proyecto final, llena el siguiente formulario y sub
 
 ## Información General
 
-Nombre del equipo:
+Nombre del equipo: "Educacion de hoy"
 
-Nombre de los miembros del equipo:
+Nombre de los miembros del equipo: Estefania Verka y Laura Falcón
 
-Describa en una sola frase el planteamiento del problema, tomando en cuenta tus aprendizajes desde la entrevista que completaste esta semana:
+Describa en una sola frase el planteamiento del problema, tomando en cuenta tus aprendizajes desde la entrevista que completaste esta semana: Investigacion y respuestas sobre la Calidad de la educacion en la primaria y secundaria actual.
 
 ## Sintetización de Apuntes Tomados durante tu Entrevista
 
 A continuación, inserta aquí una imagen de la sintetización de tus apuntes a tu carpeta grupal Github: 
 (Podría ser una foto o una captura de pantalla. Para insertar una imagen a Github, podrías jalarla dentro de este formulario cuando estás editándolo.)
+
+Sintetizacion de respuestas en Jamboard, pagina 1. 
+Mapa de afinidad, pagina 2 a 6.
+Mapa de empatia, pagina 7 a 11.
+https://jamboard.google.com/d/1ZjI7zWSj7Jg4wKHRxxFiwVj9JrOFgh1fLbhc7o-LGa0/edit?usp=sharing
